@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="291a0644-a0e9-422f-baef-b45fc2c308cb" name="Changes" comment="1.1 Compleat">
+    <list default="true" id="291a0644-a0e9-422f-baef-b45fc2c308cb" name="Changes" comment="1.2 Compleat">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/K1.2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/K1.2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/K1.3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/K1.3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
   "keyToString": {
     "Kotlin.K1_1Kt.executor": "Run",
     "Kotlin.K1_2Kt.executor": "Run",
+    "Kotlin.K1_3Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
@@ -103,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725835156465</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1.2 Compleat">
+      <option name="closed" value="true" />
+      <created>1725907207637</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725907207637</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Srart" />
     <MESSAGE value="1.1 Compleat" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.1 Compleat" />
+    <MESSAGE value="1.2 Compleat" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.2 Compleat" />
   </component>
 </project>
