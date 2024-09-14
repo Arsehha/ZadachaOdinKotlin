@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="291a0644-a0e9-422f-baef-b45fc2c308cb" name="Changes" comment="1.3 Compleat" />
+    <list default="true" id="291a0644-a0e9-422f-baef-b45fc2c308cb" name="Changes" comment="1.3 Compleat">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/K1.1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/K1.1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/K1.2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/K1.2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/K1.3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/K1.3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/K1.4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/K1.4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/K1.5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/K1.5.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +56,8 @@
     "Kotlin.K1_4Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Education/Mobile app/ZadachaOdin"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
