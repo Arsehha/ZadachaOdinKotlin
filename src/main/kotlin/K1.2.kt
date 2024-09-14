@@ -8,11 +8,11 @@ fun main () {
     println("Введите символы")
     val input = readln()
     //val input = "AASADDSS"
-    var chars = input.toList().distinct().sorted()
+    var chars = input.toList().distinct().sorted()//разделяет символы на отдельные жллементы оставляет только уникальные и сортирует
     var result =  ""
 
     for(char in chars) {
-        result += "$char - ${input.count {c -> c ==char}}\n"
+        result += "$char - ${input.count {c -> c ==char}}\n"//тильда выражение для счёта одинаковых символов
     }
     println("Результат: \n$result")
 }
